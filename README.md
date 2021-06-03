@@ -1,3 +1,7 @@
+# Copy repo
+This repository is a copy of [edeng23](https://github.com/edeng23/binance-trade-bot). They didn't build a release on my [request](https://github.com/edeng23/binance-trade-bot/issues/343). However, non changing repository for my [medium articles](https://lorenzhofmann-w.medium.com/). Please star and give credits in the original repository.
+
+
 # binance-trade-bot
 
 ![github](https://img.shields.io/github/workflow/status/edeng23/binance-trade-bot/binance-trade-bot)
